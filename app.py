@@ -78,7 +78,7 @@ def predict_weather():
             N2NCon=json_data['forecast']['forecastday'][2]['day']['condition']['icon']
             
             x=N2N.split('-')
-            N2N=x[2]+" "+calendar.month_abbr[int(x[1])]
+            N2N=str(int(x[2]+1))+" "+calendar.month_abbr[int(x[1])]
 
             #Render home with all data present
             return render_template('home.html',name=name,region=region,country=country,tz_id=tz_id,
