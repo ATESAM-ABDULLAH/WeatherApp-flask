@@ -29,18 +29,7 @@ A weather App made using HTML, CSS and PYTHON.
 • Uses HTML
 
 • Uses CSS
-## Built with
-• Made with Python
 
-• Uses HTML
-
-• Uses CSS
-## Built with
-• Made with Python
-
-• Uses HTML
-
-• Uses CSS
 ## Get Started
 
 So what are you waiting for? just get started!!
