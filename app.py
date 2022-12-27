@@ -1,7 +1,6 @@
 import json
 import requests
 import calendar
-from fpdf import FPDF
 from flask import Flask,request,render_template
 
 #API information for connection
