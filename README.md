@@ -41,7 +41,7 @@ A simple weather checking web application built using Flask and a weather API. T
 2. Run following command in terminal.
 ```python app.py```
     
-3. A live server will open with the login page in your default browser.
+3. A live server will open in your default browser.
 
 4. Use the application and please do provide any contructive feedback (if any).
  
